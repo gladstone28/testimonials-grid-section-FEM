@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gladstone28/testimonials-grid-section-main)
-- Live Site URL: [Add live site URL here](https://github.com/gladstone28/testimonials-grid-section-main)
+- Solution URL: [See my solution URL here](https://github.com/gladstone28/testimonials-grid-section-main)
+- Live Site URL: [See my live site URL here](https://github.com/gladstone28/testimonials-grid-section-main)
 
 ## My process
 
