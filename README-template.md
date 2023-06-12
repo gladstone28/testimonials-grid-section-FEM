@@ -78,7 +78,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=7AzrFCcKfaA) - Recreate A Painting with Bootstrap Grid.
-- [Example resource 2](https://www.codecademy.com) - This is an amazing resource. I'd recommend it to anyone still learning to become a web developer.
+- [Example resource 2](https://www.codecademy.com/courses/learn-bootstrap/projects/bootstrap-grid-painting) - This is an amazing resource. I'd recommend it to anyone still learning to become a web developer.
 
 
 ## Author
